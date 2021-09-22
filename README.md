@@ -8,7 +8,7 @@ It uses OOP, each electron is an object with its own methods
  
 
 ## Sketch 
-```
+```javascript
 //autore: Francesco Genovese
 let electrons = [];
 class electron{
@@ -72,4 +72,4 @@ function draw() {
 	}
 }
 
-```javascript
+```
