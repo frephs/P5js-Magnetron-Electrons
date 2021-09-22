@@ -3,7 +3,7 @@ P5js animation to visualize the motion of electrons inside a microwave's magnetr
 It uses OOP, each electron is an object with its own methods
 ## Preview
 ![Preview](https://github.com/frephs/P5js-Magnetron-Electrons/blob/main/preview.gif)  
-[Preview the animations here](https://htmlpreview.github.io/?https://github.com/frephs/P5js-Magnetron-Electrons/blob/main/index.html)
+[Preview the animations here](https://frephs.github.io/P5js-Magnetron-Electrons/)
 
  
 
